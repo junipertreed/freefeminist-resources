@@ -1,1 +1,1 @@
-# lis786-starterkit
+# freefeminist-resources

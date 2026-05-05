@@ -1,7 +1,7 @@
 ---
 title: Women's Suffrage
 layout: post
-image: /lis786-starterkit/images/votes.png
+image: /freefeminist-resources/images/votes.png
 imgcaption: Woman Suffrage Postcard from the Smithsonian National Museum of American History
 imgsource: https://americanhistory.si.edu/collections/object/nmah_1444286
 tags:

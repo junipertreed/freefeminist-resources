@@ -11,11 +11,11 @@ layout: base
     {% for post in site.documents %}
     {% if post.tags contains this_tag %}
     <li>
-        <a href="/lis786-starterkit{{ post.url }}">{{ post.title }}</a> {% if post.type %} {% unless post.type == blank %} | {{ post.type }} {% endunless %} {% endif %}
+        <a href="/freefeminist-resources{{ post.url }}">{{ post.title }}</a> {% if post.type %} {% unless post.type == blank %} | {{ post.type }} {% endunless %} {% endif %}
     </li>
     {% endif %}
     {% endfor %}
 </ul>
-<p>Browse more <a href="/lis786-starterkit/tags">tags</a>.</p>
+<p>Browse more <a href="/freefeminist-resources/tags">tags</a>.</p>
 </div>
 </article>
