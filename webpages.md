@@ -29,19 +29,6 @@ nav-order: 2
 <small>PDFs of whole books.</small>  
 
 {% for book in site.books %}
-<div class="container">
-<h3 class="hi up"><a href="/freefeminist-resources/{{book.permalink}}">{{ book.title }}</a></h3>
-<div class="content-left">
+<h4><a href="/freefeminist-resources/{{book.permalink}}">{{ book.title }} by {{ book.author }}</a></h4>
 <p>{{ book.snip }}</p>
-</div>
-{% if book.image %}
-{% unless book.image == blank %}
-<div class="img-right">
-    <figure class="img-inner">
-    <img src="{{ book.image }}" alt="{{ book.imgalt }}">
-    </figure>
-</div>
-{% endunless %}
-{% endif %}
-</div>
 {% endfor %}
