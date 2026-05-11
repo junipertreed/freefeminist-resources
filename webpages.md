@@ -40,3 +40,5 @@ nav-order: 2
 <a href="/freefeminist-resources{{ post.url }}">{{ post.title }}</a> {% if post.type %} {% unless post.type == blank %} | {{ post.type }} {% endunless %} {% endif %}
 {% endif %}
 {% endfor %}
+  
+testing 
