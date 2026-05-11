@@ -1,7 +1,7 @@
 ---
 title: Re-enchanting the World: Feminism and the Politics of the Commons
 author: Silvia Federici
-permalink: /webpages/books/re-enchanting
+permalink: webpages/books/re-enchanting
 layout: book
 link: https://eclass.aegean.gr/modules/document/file.php/GEO-PPS366/silviafederichiCommons.pdf
 snip: Considering the commons from a feminist perspective, this collection centers on women and reproductive work to map the connections between the previous forms of enclosure that occurred with the birth of capitalism and the “new enclosures” at the heart of the present phase of capitalism.
