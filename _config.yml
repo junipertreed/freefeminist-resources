@@ -26,6 +26,9 @@ collections:
   articles: 
     output: true
     permalink: /articles/:title
+  books:
+    output: true
+    permalink: /books/:title
   people:
     output: true
     permalink: /people/:title

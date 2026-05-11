@@ -30,4 +30,8 @@ nav-include: true
 ## Partially Open Access
 
 [Women's History Review](https://www.tandfonline.com/journals/rwhr20)  
-Women's History Review "is an international journal whose aim is to provide a forum for the publication of new scholarly articles in the field of women’s history. The time span covered by the journal includes the 19th, 20th and 21st centuries as well as earlier times. The journal seeks to publish contributions from a range of disciplines (for example, women’s studies, history, sociology, cultural studies, media studies, film studies, literature, anthropology, politics, social policy and philosophy) that further feminist knowledge and debate about women and/or gender relations in history."
+Women's History Review "is an international journal whose aim is to provide a forum for the publication of new scholarly articles in the field of women’s history. The time span covered by the journal includes the 19th, 20th and 21st centuries as well as earlier times. The journal seeks to publish contributions from a range of disciplines (for example, women’s studies, history, sociology, cultural studies, media studies, film studies, literature, anthropology, politics, social policy and philosophy) that further feminist knowledge and debate about women and/or gender relations in history."  
+
+## Open to All Libraries  
+
+[The Anarchist Library](https://theanarchistlibrary.org/special/index)

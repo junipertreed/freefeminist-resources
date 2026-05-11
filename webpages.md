@@ -23,4 +23,8 @@ nav-order: 2
 
 ## Blogs
 
-[Internation Feminist Journal of Politics Blog](https://www.ifjpglobal.org/blog)
+[Internation Feminist Journal of Politics Blog](https://www.ifjpglobal.org/blog)  
+
+## Books  
+<small>PDFs of whole books.</small>  
+
