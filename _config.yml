@@ -70,6 +70,12 @@ defaults:
     layout: article_item
 
 defaults:
+  - scope:
+      type: "books"
+    values:
+      layout: book_item
+
+defaults:
   -scope:
     type: "people"
     values:

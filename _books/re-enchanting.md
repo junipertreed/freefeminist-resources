@@ -1,6 +1,8 @@
 ---
 title: Re-enchanting the World
 layout: post
+image: freefeminist-resources/images/re-enchanting-the-world.jpg
+imgalt: book cover of re-enchanting the world
 type: Book
 tags: marxism  history
 ---
