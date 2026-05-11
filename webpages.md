@@ -25,7 +25,7 @@ nav-order: 2
 
 [International Feminist Journal of Politics Blog](https://www.ifjpglobal.org/blog)  
 
-## Books  
+## Books
 <small>PDFs of whole books.</small>  
 
 {% for book in site.books %}

@@ -2,7 +2,9 @@
 title: Caliban and the Witch
 layout: post
 type: Book
-snip: Drawing on rich historical research, Federici maps the connections between the previous forms of enclosure that occurred with the birth of capitalism and the destruction of the commons and the “new enclosures” at the heart of the present phase of global capitalist accumulation. Considering the commons from a feminist perspective, this collection centers on women and reproductive work as crucial to both our economic survival and the construction of a world free from the hierarchies and divisions capital has planted in the body of the world proletariat.
+imgage: freefeminist-resources/images/caliban.jpg
+imgalt: book cover of caliban and the witch
+snip: A history of the body in the transition to capitalism. Moving from the peasant revolts of the late Middle Ages to the witch-hunts and the rise of mechanical philosophy, Federici investigates the capitalist rationalization of social reproduction. She shows how the battle against the rebel body and the conflict between body and mind are essential conditions for the development of labor power and self-ownership, two central principles of modern social organization.
 tags: marxism  history
 ---
 *[Caliban and the Witch: Women, the Body and Primitive Accumulation](https://theanarchistlibrary.org/library/silvia-federici-caliban-and-the-witch.pdf)* by Silvia Federici
