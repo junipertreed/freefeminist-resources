@@ -29,8 +29,14 @@ nav-order: 2
 <small>PDFs of whole books.</small>  
 
 {% for post in site.documents %}
-{% if post.type contains "Book" %}
-<a href="/freefeminist-resources{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
-<p>{{ book.snip }}</p>
+{% if post.type contains Book %}
+<p><a href="/freefeminist-resources{{ post.url }}">{{ post.title }} by {{ post.author }}</a></p>
+<p>{{ post.snip }}</p>
+{% endif %}
+{% endfor %}
+
+{% for post in site.documents %}
+{% if post.type contains Book %}
+<a href="/freefeminist-resources{{ post.url }}">{{ post.title }}</a> {% if post.type %} {% unless post.type == blank %} | {{ post.type }} {% endunless %} {% endif %}
 {% endif %}
 {% endfor %}
