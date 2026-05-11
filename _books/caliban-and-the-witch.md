@@ -1,6 +1,7 @@
 ---
 title: Caliban and the Witch
 author: Silvia Federici
+permalink: /webpages/books/caliban
 layout: post
 type: Book
 snip: A history of the body in the transition to capitalism moving from the peasant revolts of the late Middle Ages to the witch-hunts and the rise of mechanical philosophy.
