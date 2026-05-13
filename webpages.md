@@ -29,6 +29,8 @@ nav-order: 2
 <small>PDFs of whole books.</small>  
     
 {% for book in site.books %}
-<h4><a href="/freefeminist-resources/{{book.permalink}}">{{ book.title }}</a></h4>
-<p class="content=left">{{ book.snip }}</p>
+<div>
+<p><a href="/freefeminist-resources/{{book.permalink}}">{{ book.title }}</a></p>
+<p>{{ book.snip }}</p>
+</div>
 {% endfor %}
