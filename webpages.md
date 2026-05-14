@@ -30,7 +30,7 @@ nav-order: 2
     
 {% for book in site.books %}
 <div class="container">
-<p><a href="/freefeminist-resources/{{book.permalink}}">{{ book.title }}</a></p>
+<p>{{ book.title }}</p>
 <p>{{ book.snip }}</p>
 </div>
 {% endfor %}
