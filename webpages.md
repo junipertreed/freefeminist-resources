@@ -32,5 +32,6 @@ nav-order: 2
 <div class="container">
 <p>{{ book.title }}</p>
 <p>{{ book.snip }}</p>
+<p>{{ book.content }}</p>
 </div>
 {% endfor %}
