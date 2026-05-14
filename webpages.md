@@ -30,8 +30,10 @@ nav-order: 2
     
 {% for book in site.books %}
 <div class="container">
-<p>{{ book.title }}</p>
+<div>
+<h5><em>{{ book.title }}</em></h5> 
+<p>by {{ book.author }}</p>
+</div>
 <p>{{ book.snip }}</p>
-<p>{{ book.content }}</p>
 </div>
 {% endfor %}
