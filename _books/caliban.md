@@ -1,5 +1,5 @@
 ---
-title: Caliban and the Witch: Women, the Body and Primitive Accumulation
+title: "Caliban and the Witch: Women, the Body and Primitive Accumulation"
 author: Silvia Federici
 permalink: webpages/books/caliban
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: Re-enchanting the World: Feminism and the Politics of the Commons
+title: "Re-enchanting the World: Feminism and the Politics of the Commons"
 author: Silvia Federici
 permalink: webpages/books/re-enchanting
 layout: post
