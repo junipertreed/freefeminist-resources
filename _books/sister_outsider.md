@@ -1,7 +1,7 @@
 ---
 title: Sister Outsider
 author: Audre Lorde
-layout: post
+layout: book
 permalink: webpages/books/sister_outsider
 source: https://rhinehartibenglish.weebly.com/uploads/2/2/1/0/22108252/sister_outsider_audrey_lorde_ib_pdf_packet.pdf
 type: Book
