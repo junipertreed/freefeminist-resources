@@ -7,8 +7,6 @@ nav-order: 2
 ---
 ## Articles
 
-{% include pressbooks_theory.md %}  
-
 {% include big_three.md %}
 
 {% for article in site.articles %}
