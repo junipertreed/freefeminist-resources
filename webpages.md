@@ -25,14 +25,14 @@ nav-order: 2
 
 [International Feminist Journal of Politics Blog](https://www.ifjpglobal.org/blog)  
 
-## Books
+<h2 id="books">Books</h2>
 <small>PDFs of whole books.</small>  
     
 {% for book in site.books %}
 <div class="container">
 <div>
 <h4><em>{{ book.title }}</em></h4> 
-<p>by {{ book.author }}</p>
+<small>by {{ book.author }}</small>
 </div>
 <p>{{ book.snip }}</p>
 </div>
