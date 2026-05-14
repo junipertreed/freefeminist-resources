@@ -2,7 +2,7 @@
 title: "Caliban and the Witch: Women, the Body and Primitive Accumulation"
 author: Silvia Federici
 permalink: webpages/books/caliban
-layout: post
+layout: book
 type: Book
 source: https://theanarchistlibrary.org/library/silvia-federici-caliban-and-the-witch.pdf
 snip: A history of the body in the transition to capitalism moving from the peasant revolts of the late Middle Ages to the witch-hunts and the rise of mechanical philosophy.
