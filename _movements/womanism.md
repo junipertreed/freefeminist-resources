@@ -5,6 +5,7 @@ tags: womanism
 tags:
     - movements
     - race
+    - theory
 ---
 
 Womanism is a social theory with a large umbrella. It seeks a universalist method of combatting oppression, viewing feminism as created by and for white Western woman, and white Western feminists as unwilling (or in some cases, unable) to commit to anti-racism. Womanism focuses on the problems facing Black women; spirituality, Black culture, and women's culture are common priorities for womanist theorists and activists. 

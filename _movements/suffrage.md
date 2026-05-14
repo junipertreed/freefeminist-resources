@@ -7,7 +7,6 @@ imgsource: https://americanhistory.si.edu/collections/object/nmah_1444286
 tags:
     - liberal
     - movements
-    - fave
     - history
 ---
 <div class="content-left" markdown="1">
