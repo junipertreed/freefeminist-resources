@@ -9,6 +9,6 @@ summary: A history of the body in the transition to capitalism. Moving from the 
 tags: marxism  history
 ---
 
-*[Caliban and the Witch: Women, the Body and Primitive Accumulation](https://theanarchistlibrary.org/library/silvia-federici-caliban-and-the-witch.pdf)* by {{ post.author }}
+*[Caliban and the Witch: Women, the Body and Primitive Accumulation](https://theanarchistlibrary.org/library/silvia-federici-caliban-and-the-witch.pdf)* by {{ page.author }}
 
-{{ title }}
+{{ page.title }}
