@@ -20,6 +20,8 @@ nav-order: 2
 
 ["Gender Equity Websites, Blogs, & Resources"](https://wcc.stanford.edu/community-resources-stanford/gender-equity-websites-blogs-resources) from Standford University
 
+[Schlesinger Library History of Women in America Research Guides](https://guides.library.harvard.edu/schlesinger_rg_subject) from Harvard Library
+
 
 ## Blogs
 
