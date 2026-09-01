@@ -32,6 +32,9 @@ nav-include: true
 [Women's History Review](https://www.tandfonline.com/journals/rwhr20)  
 Women's History Review "is an international journal whose aim is to provide a forum for the publication of new scholarly articles in the field of women’s history. The time span covered by the journal includes the 19th, 20th and 21st centuries as well as earlier times. The journal seeks to publish contributions from a range of disciplines (for example, women’s studies, history, sociology, cultural studies, media studies, film studies, literature, anthropology, politics, social policy and philosophy) that further feminist knowledge and debate about women and/or gender relations in history."  
 
+*[Feminist Review](https://journals.sagepub.com/home/FER?_gl=1*1wchjno*_up*MQ..*_ga*NTQ0MjIzNjkzLjE3ODgyNzk5MTg.*_ga_60R758KFDG*czE3ODgyNzk5MTgkbzEkZzEkdDE3ODgyNzk5MjAkajU4JGwxJGgxOTExNDYyNzIz)*
+*Feminist Review* is an intersectional feminist journal with the goal of publishing accessible knowledge. The journals purpose "is to hold space for conversations that rethink and reimagine feminist scholarship and praxis."
+
 ## Open to All Libraries  
 
 [The Anarchist Library](https://theanarchistlibrary.org/special/index)
